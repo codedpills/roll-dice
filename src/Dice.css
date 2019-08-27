@@ -1,0 +1,10 @@
+.dice {
+    display: flex;
+    justify-content: center;
+}
+
+.dice-box i{
+    font-size: 8rem;
+    color: rgba(117, 57, 173, 0.753);
+    margin: 1rem;
+}

@@ -1,0 +1,9 @@
+.roll-dice button {
+    background-color: rgb(10, 10, 10);
+    padding: 1rem 3.5rem;
+    color: whitesmoke;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: none;
+    margin-top: 3rem;
+}
