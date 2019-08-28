@@ -1,0 +1,9 @@
+.die {
+    display: inline-block;
+}
+
+.die-face {
+    font-size: 10rem;
+    padding: 2rem;
+    color: slateblue;
+}
